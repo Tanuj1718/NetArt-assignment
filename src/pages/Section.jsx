@@ -6,7 +6,7 @@ const Section = ()=>{
 <div className=" flex h-auto w-[100vw] m-2 gap-8">
 
   <div className="w-[500px] mr-2 flex flex-wrap">
-    <img className="h-[600px] w-[400px]" src="/public/1.png" alt=""/>
+    <img className="h-[600px] w-[400px]" src="/1.png" alt=""/>
   </div>
 
 
@@ -21,7 +21,7 @@ const Section = ()=>{
 
 {/* image container */}
 <div className="mt-2">
-    <img className="m-3" src="/public/2.png" alt="" />
+    <img className="m-3" src="/2.png" alt="" />
 </div>
 <p className="text-[15px] font-semibold">	Government of India has awarded the "<b>National Energy Conservation Award 2018</b>". Mr. G. Selvaraj, Joint Managing Director of C.R.I. Group received the award from Smt. Sumitra Mahajan, Speaker of Lok Sabha & Shri. Raj Kumar Singh, Honorable Minister of State.</p>
   </div>
